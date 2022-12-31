@@ -1,0 +1,13 @@
+.cart-details{
+    margin-top: 80px;
+    position: sticky;
+    top: 0;
+}
+.cart-details span{
+    font-weight: 700;
+}
+
+
+.price-border p{
+    margin-left: 20px;
+}
